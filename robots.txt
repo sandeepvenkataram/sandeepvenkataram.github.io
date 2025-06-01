@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sandeepvenkataram.github.io/al-folio/sitemap.xml
+Sitemap: https://sandeepvenkataram.github.io/sitemap.xml
